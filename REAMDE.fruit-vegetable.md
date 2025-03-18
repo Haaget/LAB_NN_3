@@ -36,7 +36,7 @@
 
 ## Запуск коду
 `pip install tensorflow numpy matplotlib scikit-learn kagglehub`
-    `python script.py`
+    `python fruit-vegetable.py`
 
 ## Візуалізація
 - Після навчання відображаються графіки **точності** та **втрати** для тренувального та валідаційного наборів.
